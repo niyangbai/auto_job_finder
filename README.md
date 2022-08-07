@@ -1,1 +1,1 @@
-# job_finder
+# Automatic Job Finder
